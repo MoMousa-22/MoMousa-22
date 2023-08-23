@@ -20,23 +20,34 @@
 
 ### Connect with Me :
 
+
 <a href="https://www.linkedin.com/in/mohamed-mousa-b1946a24a/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/201206874829" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href = "mailto:mohamedmousa200188@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/201206874829" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/></a>
 <a href="https://t.me/+201206874829" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
  ##
  ### Programming Languages and Technologies I Use
  ##
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=563D7C)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
- 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
  ## Who am I?
  ```dart
  class WhoAmI {
