@@ -22,30 +22,32 @@
 
 
 <a href="https://www.linkedin.com/in/mohamed-mousa-b1946a24a/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href = "mailto:mohamedmousa200188@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/201206874829" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/></a>
-<a href="https://t.me/+201206874829" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href = "mailto:mohamedmousa200188@gmail.com"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/201206874829" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-1a2a2b?style=for-the-badge&logo=WhatsApp&logoColor=green"/></a>
+<a href="https://t.me/+201206874829" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mousa-042938?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
  ##
  ### Programming Languages and Technologies I Use
  ##
 <div align="left">
+  
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  
 </div>
 
  ## Who am I?
@@ -72,6 +74,8 @@
 }
 
  ```
+
+
 
 ## Current Works
 
