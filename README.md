@@ -15,7 +15,7 @@
 - 👨‍💻 As a Flutter developer, I am passionate about creating innovative and user-friendly mobile applications.
 - 💬 Ask me about my experience with Dart, OOP, Flutter, State management, and API's or anything related to mobile apps development.
 - ⚽ Fun Fact: I'm a football player by passion, but a coder by profession. If I could live my dream, I would play football full-time.😄
-- 👀 Check out my CV at https://drive.google.com/file/d/1svvLCU-J8yodkpjxwFhOeX65O4kOH0Ds/view?usp=sharing to see an overview of my skills and projects I've worked on.
+- 👀 Check out [My CV](https://drive.google.com/file/d/1svvLCU-J8yodkpjxwFhOeX65O4kOH0Ds/view?usp=sharing) to see an overview of my skills and projects I've worked on.
 
 
 ### Connect with Me :
